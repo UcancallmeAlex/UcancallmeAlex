@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex, welcome to my github portfolio.</h1>
+<h1>Welcome to my github portfolio.</h1>
 
 <h2>Software Development Projects:</h2>
 
